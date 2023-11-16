@@ -1,0 +1,24 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  Background-color: Black;
+  color:white;
+}
+
+h2 {
+  background-color: gray;
+
+}
+
+#top-banner{
+  background-color: black;
+  background-size: 300pt;
+
+}
+#odin-recipes-title{
+  color:white;
+  text-decoration: none;
+
+}
